@@ -330,7 +330,7 @@ routes = {
                         BGB_01856A
                     ],
                     "收費": [
-                        BGB_01839A+"起: $9.00"
+                        BGB_01839A,"起: $9.00"
                     ],
                     "地圖": "https://umap.openstreetmap.fr/en/map/1-brr-maf_1229516"
                 },
@@ -356,7 +356,7 @@ routes = {
                         BGB_01856A
                     ],
                     "收費": [
-                        BGB_01839A+"起: $9.00"
+                        BGB_01839A,"起: $9.00"
                     ],
                     "地圖": "https://umap.openstreetmap.fr/en/map/1-brr-maf-race_1229517"
                 }
@@ -384,7 +384,7 @@ routes = {
                         BGB_01839A
                     ],
                     "收費": [
-                        BGB_01856A+"起: $9.00"
+                        BGB_01856A,"起: $9.00"
                     ],
                     "地圖": "https://umap.openstreetmap.fr/en/map/1-maf-brr_1229519"
                 },
@@ -411,7 +411,7 @@ routes = {
                         BGB_01839A
                     ],
                     "收費": [
-                        BGB_01856A+"起: $9.00"
+                        BGB_01856A,"起: $9.00"
                     ],
                     "地圖": "https://umap.openstreetmap.fr/en/map/1-maf-brr-holidays_1229520"
                 }
@@ -469,7 +469,7 @@ routes = {
                         BGB_01856A
                     ],
                     "收費": [
-                        BGB_01856A+"起: $10.60"
+                        BGB_01856A,"起: $10.60"
                     ],
                     "地圖": "https://umap.openstreetmap.fr/en/map/1m-maf-wng-normal_1229550"
                 } ,
@@ -521,7 +521,7 @@ routes = {
                         BGB_01856A
                     ],
                     "收費": [
-                        BGB_01856A+"起: $10.60"
+                        BGB_01856A,"起: $10.60"
                     ],
                     "地圖": "https://umap.openstreetmap.fr/en/map/1m-maf-wng-race_1229554"
                 } ,
@@ -575,7 +575,7 @@ routes = {
                         BGB_01856A
                     ],
                     "收費": [
-                        BGB_01856A+"起: $10.60"
+                        BGB_01856A,"起: $10.60"
                     ],
                     "地圖": "https://umap.openstreetmap.fr/en/map/1m-maf-wng-normal_1229550"
                 }
